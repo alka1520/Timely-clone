@@ -205,7 +205,7 @@ body {
   .email-btn:hover,.bttn-again:hover {
     color: white;
     background-color: rgba(132, 29, 228, 0.927);
-    cursor: pointer;
+    cursor: pointer; 
   }
 
   .des-icon {
@@ -492,7 +492,7 @@ body {
     cursor: pointer;
     transform: scale(1.2);
    }
-
+   
    #trust-part0 {
     width: 100%;
     position: relative;
@@ -791,14 +791,6 @@ body {
     border-radius: 55%;
     background-color: rgb(4, 4, 49);
    }
-
-
-   
-
-
-
-   
-
 
 
 
