@@ -245,7 +245,7 @@ body {
   .email-btn:hover,.bttn-again:hover {
     color: white;
     background-color: rgba(132, 29, 228, 0.927);
-    cursor: pointer;
+    cursor: pointer; 
   }
 
   .des-icon {
@@ -532,7 +532,7 @@ body {
     cursor: pointer;
     transform: scale(1.2);
    }
-
+   
    #trust-part0 {
     width: 100%;
     position: relative;
@@ -559,8 +559,7 @@ body {
     color: rgb(84, 83, 83);
     font-size: 18px;
   }
-
-  /* js */
+  
   #btn-div {
     margin: 50px 0;
     display: flex;
@@ -650,7 +649,7 @@ body {
     color: blueviolet;
     font-size: 12px;
   }
- /* js end */
+
   #trusted-badges {
     margin: auto;
     margin-top: 50px;
@@ -905,14 +904,6 @@ body {
     border-radius: 55%;
     background-color: rgb(4, 4, 49);
    }
-
-
-   
-
-
-
-   
-
 
 
 
